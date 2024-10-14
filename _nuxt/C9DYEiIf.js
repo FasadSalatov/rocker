@@ -1,0 +1,1 @@
+import{d as o,o as s,b as n,e as c,n as t,i as r}from"./CeJFteYl.js";const _={class:"background"},d=o({__name:"backgroundImage",props:{imageUrl:{}},setup(e){const a=e;return(l,m)=>(s(),n("div",_,[c("div",{class:"background-image",style:t({backgroundImage:`url('${a.imageUrl}')`})},null,4)]))}}),i=r(d,[["__scopeId","data-v-ab2ef6d0"]]);export{i as _};
